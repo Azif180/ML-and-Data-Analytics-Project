@@ -13,17 +13,17 @@ feature engineering, visualization, classification & predictive modeling, model 
 - Models: Random Forest, Decision Tree, Linear Regression, SVM
 - Tools: Pandas, Numpy, Scikit-learn, Matplotlib
 
-- #2 Fraudulent Credit Card Transaction (Mini Project)
+#2 Fraudulent Credit Card Transaction (Mini Project)
 - Classifies test data to fraud/non-fraud based on PCA
 - Models: Logistic Regression, Random Forest Classifier
 - Tools: Numpy, Pandas, Matplotlib, Scikit-learn, Seaborn
 
-- #3 Household Power Consumption (Mini Project)
+#3 Household Power Consumption (Mini Project)
 - Predicts the power consumption in future household based on electrical usage
 - Model: Linear Regression, ARIMA
 - Tools: Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib 
 
-- #4 Telco Customer Churn (Mini Project)
+#4 Telco Customer Churn (Mini Project)
 - Classify test data whether customer will churn or not churn based on features
 - Model: Logistic Regression, Random Forest Classifier
 - Tools: Pandas, Numpy, Matplotlib, Scikit-learn, Seaborn
